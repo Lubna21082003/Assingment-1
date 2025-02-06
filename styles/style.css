@@ -13,7 +13,7 @@ color: #0E0E0E;
     background-color: #006A50;
     color: white;
     gap: 48px;
-    padding: 24px;
+    padding: 26px;
     border-radius: 8px;
     border: none;
 
@@ -96,8 +96,49 @@ color: #0E0E0E;
   font-size: 16PX;
   color: #0E0E0E;
  }
- .
+ .Satellite{
+  display: flex;
+  justify-content: space-between;
+ }
+.New-Satellite{
+gap: 32px;
+width: 744px;
+height: 290px;
 
+}
+.News-section-tittle{
+font-weight: bold;
+font-size: 40px;
+
+
+}
+.News-section-description{
+gap: 24px;
+
+}
+.Satellite-tittle{
+
+  font-size: 32px;
+  font-weight: bold;
+}
+.Satellite-sub-tittle{
+gap: 12px;
+
+
+}
+.Satellite-description{
+  font-size: 16px;
+  font-weight: Regular;
+}
+.News{
+  color: #0E0E0E;
+}
+
+
+
+ 
+ 
+ 
 
 
 
