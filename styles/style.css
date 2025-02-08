@@ -133,6 +133,91 @@ gap: 12px;
 .News{
   color: #0E0E0E;
 }
+.Today{
+
+  text-align: center;
+ 
+
+
+
+}
+.Today-section-tittle{
+font-size: 40px;
+font-weight: bold;
+color: #0E0E0E;
+
+
+}
+.Today-section-description{
+gap: 2px;
+color: #0E0E0E;
+
+
+
+}
+.flex-container{
+
+display: flex;
+text-align: center;
+flex-direction: row;
+
+
+
+}
+
+.flex-box{
+  height: 64px;
+  width: 120px;
+  border: 16px;
+  padding: 40px;
+  
+  margin:14px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  
+  }
+  .secondery-bg{
+background-color: #D5D6D8;
+
+
+
+  }
+  .flex-color{
+    background-color: #C6E4D6;
+  }
+  footer input[type="text"]{
+width: 1032px;
+height: 64px; 
+padding:  10px 20px;
+gap: 24px;
+text-align: center;
+
+
+
+
+  }
+  
+  
+
+
+
+
+
+
+
+  
+
+
+ 
+  
+
+
+
+
+
+
+
 
 
 
